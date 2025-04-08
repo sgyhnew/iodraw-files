@@ -108,13 +108,6 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZw_jqteeFD4p0DiWAZ7-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EZw_jqteeFD4p0DiWAZ7-173" target="EZw_jqteeFD4p0DiWAZ7-217">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="930" y="1024" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-173" value="SPPF" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#808080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="812" width="57" height="48" as="geometry" />
         </mxCell>
