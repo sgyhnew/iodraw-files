@@ -38,8 +38,8 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkY5knexYzaKYF7SF6bU-44" value="160x160x128W&#xa;" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0.01;entryY=0.5;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-5" target="WkY5knexYzaKYF7SF6bU-6" edge="1">
-          <mxGeometry x="-0.6867" relative="1" as="geometry">
+        <mxCell id="WkY5knexYzaKYF7SF6bU-44" value="&#xa;" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0.01;entryY=0.5;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-5" target="WkY5knexYzaKYF7SF6bU-6" edge="1">
+          <mxGeometry x="0.0361" y="4" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
