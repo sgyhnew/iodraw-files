@@ -92,6 +92,9 @@
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-182" value="Upsample" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="910" width="57" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="EZw_jqteeFD4p0DiWAZ7-185" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
