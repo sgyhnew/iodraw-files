@@ -137,7 +137,7 @@
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-33" value="SORT" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="382" width="339" height="686" as="geometry" />
         </mxCell>
-        <UserObject label="SORT Tracker" link="https://en.wikipedia.org/wiki/Simple_Online_and_Realtime_Tracking" tooltip="SORT Algorithm" id="ToJrVbR9n8R9AlxOJK9a-34">
+        <UserObject label="SORT Tracker&#xa;max_age=1,min_hits=3" link="https://en.wikipedia.org/wiki/Simple_Online_and_Realtime_Tracking" tooltip="SORT Algorithm" id="ToJrVbR9n8R9AlxOJK9a-34">
           <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
             <mxGeometry x="140" y="49.383411580594675" width="144" height="51.53051643192488" as="geometry" />
           </mxCell>
