@@ -129,7 +129,7 @@
           <mxGeometry x="487" y="180" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-33" value="SORT" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="390" width="339" height="656" as="geometry" />
+          <mxGeometry x="530" y="410" width="339" height="656" as="geometry" />
         </mxCell>
         <UserObject label="SORT Tracker" link="https://en.wikipedia.org/wiki/Simple_Online_and_Realtime_Tracking" tooltip="SORT Algorithm" id="ToJrVbR9n8R9AlxOJK9a-34">
           <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
@@ -194,7 +194,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToJrVbR9n8R9AlxOJK9a-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ToJrVbR9n8R9AlxOJK9a-15">
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ToJrVbR9n8R9AlxOJK9a-15" target="ToJrVbR9n8R9AlxOJK9a-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="720" as="sourcePoint" />
             <mxPoint x="620" y="670" as="targetPoint" />
