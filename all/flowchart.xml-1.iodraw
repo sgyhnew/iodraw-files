@@ -147,7 +147,7 @@
             <mxGeometry x="43" y="181.43035993740216" width="202" height="51.53051643192488" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="IOU Matching" link="https://en.wikipedia.org/wiki/Jaccard_index" tooltip="IOU" id="ToJrVbR9n8R9AlxOJK9a-36">
+        <UserObject label="IOU Matching&#xa;iou_threshold=0.3" link="https://en.wikipedia.org/wiki/Jaccard_index" tooltip="IOU" id="ToJrVbR9n8R9AlxOJK9a-36">
           <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
             <mxGeometry x="85" y="313.47730829420965" width="118" height="51.53051643192488" as="geometry" />
           </mxCell>
