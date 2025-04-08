@@ -17,7 +17,7 @@
           <mxGeometry x="185" y="1138" width="57" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WkY5knexYzaKYF7SF6bU-4" value="CBS" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="393" y="1138" width="57" height="48" as="geometry" />
+          <mxGeometry x="330" y="1138" width="57" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WkY5knexYzaKYF7SF6bU-5" value="C2F" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="1138" width="57" height="48" as="geometry" />
@@ -131,9 +131,8 @@
           <mxGeometry x="3721" y="1017" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WkY5knexYzaKYF7SF6bU-42" value="640x640x3&#xa;320x320x64W" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-3" target="WkY5knexYzaKYF7SF6bU-4">
-          <mxGeometry x="-0.0993" y="12" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WkY5knexYzaKYF7SF6bU-43" value="320x320x64W&#xa;160x160x128W" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-4" target="WkY5knexYzaKYF7SF6bU-5">
@@ -392,7 +391,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkY5knexYzaKYF7SF6bU-86" value="Backbone" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WkY5knexYzaKYF7SF6bU-86" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="1241" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
