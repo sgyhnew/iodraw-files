@@ -128,6 +128,9 @@
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-31" value="Bbox. Loss" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="487" y="92" width="123" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ToJrVbR9n8R9AlxOJK9a-32" target="ToJrVbR9n8R9AlxOJK9a-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-32" value="Cls. Loss" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="487" y="180" width="123" height="48" as="geometry" />
         </mxCell>
@@ -203,7 +206,7 @@
             <mxPoint x="620" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToJrVbR9n8R9AlxOJK9a-48" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-48" value="outputs" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
