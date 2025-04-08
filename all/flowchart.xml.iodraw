@@ -40,7 +40,9 @@
         </mxCell>
         <mxCell id="WkY5knexYzaKYF7SF6bU-44" value="160x160x128W&#xa;" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0.01;entryY=0.5;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-5" target="WkY5knexYzaKYF7SF6bU-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="600" y="784" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WkY5knexYzaKYF7SF6bU-45" value="80x80x256W&#xa;" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-6" target="EZw_jqteeFD4p0DiWAZ7-133" edge="1">
