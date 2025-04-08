@@ -69,27 +69,20 @@
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EZw_jqteeFD4p0DiWAZ7-136" target="EZw_jqteeFD4p0DiWAZ7-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EZw_jqteeFD4p0DiWAZ7-171" value="20*20*512*W" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EZw_jqteeFD4p0DiWAZ7-169">
-          <mxGeometry x="0.0699" y="3" relative="1" as="geometry">
-            <mxPoint x="-1" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-136" value="CBS" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1220" y="761" width="57" height="48" as="geometry" />
+          <mxGeometry x="980" y="761" width="57" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-137" value="C2F" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1480" y="761" width="57" height="48" as="geometry" />
+          <mxGeometry x="1120" y="761" width="57" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EZw_jqteeFD4p0DiWAZ7-138" target="EZw_jqteeFD4p0DiWAZ7-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EZw_jqteeFD4p0DiWAZ7-168" value="40*40*512*W" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EZw_jqteeFD4p0DiWAZ7-167">
-          <mxGeometry x="-0.0237" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-138" value="C2F" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="830" y="761" width="57" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="EZw_jqteeFD4p0DiWAZ7-173" value="C2F" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="761" width="57" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
