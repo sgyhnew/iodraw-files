@@ -144,7 +144,7 @@
           <mxGeometry x="-10" y="460" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-101" value="MaxPool2d" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="460" width="106" height="48" as="geometry" />
+          <mxGeometry x="297" y="461" width="106" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-105" value="Conv k=1, s=1, p=0" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="674" y="470" width="165" height="48" as="geometry" />
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-115" value="Conv&#xa;k=1,s=1,p=0" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="460" width="106" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-117" value="MaxPool2d" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="460" width="106" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
