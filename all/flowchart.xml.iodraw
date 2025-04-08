@@ -80,7 +80,7 @@
           <mxGeometry x="130" y="630" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-182" value="Upsample" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="950" width="57" height="48" as="geometry" />
+          <mxGeometry x="680" y="910" width="57" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
