@@ -238,11 +238,14 @@
         <mxCell id="gk1GuVQLElRvGS9MX1vi-136" value="Conv2d&#xa;k,s,p,c" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="102" y="560" width="106" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gk1GuVQLElRvGS9MX1vi-138" target="gk1GuVQLElRvGS9MX1vi-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-138" value="BatchNorm2d" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="560" width="106" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="gk1GuVQLElRvGS9MX1vi-139" value="BatchNorm2d" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="570" width="106" height="48" as="geometry" />
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-139" value="SiLU" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="560" width="106" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
