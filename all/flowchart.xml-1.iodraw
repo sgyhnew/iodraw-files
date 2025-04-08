@@ -136,7 +136,7 @@
             <mxGeometry x="140" y="47.22378716744914" width="144" height="49.27699530516432" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="卡尔曼滤波器&#xa;预测" link="https://en.wikipedia.org/wiki/Kalman_filter" tooltip="Kalman Filter" id="ToJrVbR9n8R9AlxOJK9a-35">
+        <UserObject label="Kalman Filter Predict" link="https://en.wikipedia.org/wiki/Kalman_filter" tooltip="Kalman Filter" id="ToJrVbR9n8R9AlxOJK9a-35">
           <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
             <mxGeometry x="43" y="173.49608763693269" width="202" height="49.27699530516432" as="geometry" />
           </mxCell>
