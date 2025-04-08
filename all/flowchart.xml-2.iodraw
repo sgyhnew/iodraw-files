@@ -19,6 +19,16 @@
         <mxCell id="gk1GuVQLElRvGS9MX1vi-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gk1GuVQLElRvGS9MX1vi-29" target="gk1GuVQLElRvGS9MX1vi-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-65" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gk1GuVQLElRvGS9MX1vi-61">
+          <mxGeometry x="0.5419" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gk1GuVQLElRvGS9MX1vi-61">
+          <mxGeometry x="0.7812" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-29" value="Bottleneck&#xa;    shortcut=?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="311" width="138" height="66" as="geometry" />
         </mxCell>
@@ -86,8 +96,8 @@
         <mxCell id="gk1GuVQLElRvGS9MX1vi-60" value="n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="222" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gk1GuVQLElRvGS9MX1vi-64" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="605" y="298" width="50" height="30" as="geometry" />
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-64" value="h=0.5w*c_out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="298" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
