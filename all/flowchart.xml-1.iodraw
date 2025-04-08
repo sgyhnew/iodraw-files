@@ -49,7 +49,7 @@
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-14" value="SORT Tracker" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="171" y="882" width="155" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ToJrVbR9n8R9AlxOJK9a-15" value="Output: Bboxes with Track IDs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-15" value="outputs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="123" y="980" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ToJrVbR9n8R9AlxOJK9a-6" target="ToJrVbR9n8R9AlxOJK9a-26">
