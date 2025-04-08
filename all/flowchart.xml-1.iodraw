@@ -123,10 +123,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-31" value="Bbox. Loss" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="487" y="92" width="135" height="48" as="geometry" />
+          <mxGeometry x="487" y="92" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-32" value="Cls. Loss" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="419" y="290" width="121" height="48" as="geometry" />
+          <mxGeometry x="487" y="180" width="121" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
