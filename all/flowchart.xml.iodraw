@@ -90,6 +90,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EZw_jqteeFD4p0DiWAZ7-153" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EZw_jqteeFD4p0DiWAZ7-150">
+          <mxGeometry x="0.0369" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-135" value="C2F" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="761" width="57" height="48" as="geometry" />
         </mxCell>
