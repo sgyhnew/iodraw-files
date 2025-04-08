@@ -259,6 +259,9 @@
         <mxCell id="gk1GuVQLElRvGS9MX1vi-153" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="273" y="-1149" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-154" value="&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;n: [ 0.33, 0.25, 1024 ]&lt;/span&gt;&lt;br style=&quot;font-size: 18px; padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;s: [0.33, 0.50, 1024]&lt;/span&gt;&lt;br style=&quot;font-size: 18px; padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;m: [0.67, 0.75, 768]&lt;/span&gt;&lt;br style=&quot;font-size: 18px; padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;l: [1.00, 1.00, 512]&lt;/span&gt;&lt;br style=&quot;font-size: 18px; padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: left;&quot;&gt;x: [1.00, 1.25, 512]&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="86" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
