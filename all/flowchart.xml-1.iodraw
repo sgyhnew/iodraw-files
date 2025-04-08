@@ -117,7 +117,13 @@
           <mxGeometry x="28" y="488" width="195" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="210" width="40" height="100" as="geometry" />
+          <mxGeometry x="447" y="110" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ToJrVbR9n8R9AlxOJK9a-2" target="ToJrVbR9n8R9AlxOJK9a-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-31" value="Bbox. Loss" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="635" width="135" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
