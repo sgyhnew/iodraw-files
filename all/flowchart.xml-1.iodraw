@@ -174,7 +174,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToJrVbR9n8R9AlxOJK9a-42" value="轨迹历史" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="ToJrVbR9n8R9AlxOJK9a-33" source="ToJrVbR9n8R9AlxOJK9a-37" target="ToJrVbR9n8R9AlxOJK9a-38">
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-42" value="Track History" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="ToJrVbR9n8R9AlxOJK9a-33" source="ToJrVbR9n8R9AlxOJK9a-37" target="ToJrVbR9n8R9AlxOJK9a-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="144" y="526.6478873239437" />
