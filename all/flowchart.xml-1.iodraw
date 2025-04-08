@@ -189,6 +189,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ToJrVbR9n8R9AlxOJK9a-46" value="&lt;span style=&quot;color: rgb(46, 47, 51); font-family: Open-Sans, &amp;quot;sans-serif&amp;quot;; font-size: 16px; background-color: rgb(233, 233, 255);&quot;&gt;Track ID, BBox&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ToJrVbR9n8R9AlxOJK9a-43">
+          <mxGeometry x="0.0143" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
