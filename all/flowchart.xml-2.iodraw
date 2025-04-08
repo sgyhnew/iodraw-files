@@ -13,6 +13,9 @@
         <mxCell id="gk1GuVQLElRvGS9MX1vi-28" value="Split" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="311" y="320" width="92" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gk1GuVQLElRvGS9MX1vi-29" target="gk1GuVQLElRvGS9MX1vi-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-29" value="Bottleneck&#xa;    shortcut=?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="311" width="138" height="66" as="geometry" />
         </mxCell>
@@ -23,7 +26,7 @@
           <mxGeometry x="660" y="311" width="138" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-32" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="945" y="178" width="110" height="48" as="geometry" />
+          <mxGeometry x="850" y="320" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-33" value="Conv&#xa;    k=1, s=1, p=0,&#xa;    c=c_out" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1105" y="160" width="161" height="84" as="geometry" />
