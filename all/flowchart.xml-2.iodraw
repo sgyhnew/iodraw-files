@@ -38,11 +38,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gk1GuVQLElRvGS9MX1vi-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gk1GuVQLElRvGS9MX1vi-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-32" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="320" width="110" height="48" as="geometry" />
         </mxCell>
