@@ -20,7 +20,7 @@
           <mxGeometry x="641" y="210" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-31" value="Bottleneck&#xa;    shortcut=?" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="757" y="210" width="138" height="66" as="geometry" />
+          <mxGeometry x="660" y="311" width="138" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gk1GuVQLElRvGS9MX1vi-32" value="Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="945" y="178" width="110" height="48" as="geometry" />
