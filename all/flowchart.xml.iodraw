@@ -112,6 +112,9 @@
         <mxCell id="EZw_jqteeFD4p0DiWAZ7-191" value="C2F" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="906" width="57" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="EZw_jqteeFD4p0DiWAZ7-196" value="Upsample" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="930" width="67" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
