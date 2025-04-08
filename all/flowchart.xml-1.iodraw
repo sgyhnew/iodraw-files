@@ -129,33 +129,33 @@
           <mxGeometry x="487" y="180" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-33" value="SORT" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="420" width="339" height="639" as="geometry" />
+          <mxGeometry x="530" y="390" width="339" height="656" as="geometry" />
         </mxCell>
         <UserObject label="SORT跟踪层" link="https://en.wikipedia.org/wiki/Simple_Online_and_Realtime_Tracking" tooltip="SORT Algorithm" id="ToJrVbR9n8R9AlxOJK9a-34">
           <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
-            <mxGeometry x="140" y="46" width="144" height="48" as="geometry" />
+            <mxGeometry x="140" y="47.22378716744914" width="144" height="49.27699530516432" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="卡尔曼滤波器&#xa;预测" link="https://en.wikipedia.org/wiki/Kalman_filter" tooltip="Kalman Filter" id="ToJrVbR9n8R9AlxOJK9a-35">
           <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
-            <mxGeometry x="43" y="169" width="202" height="48" as="geometry" />
+            <mxGeometry x="43" y="173.49608763693269" width="202" height="49.27699530516432" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="IOU匹配" link="https://en.wikipedia.org/wiki/Jaccard_index" tooltip="IOU" id="ToJrVbR9n8R9AlxOJK9a-36">
           <mxCell style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
-            <mxGeometry x="85" y="292" width="118" height="48" as="geometry" />
+            <mxGeometry x="85" y="299.76838810641624" width="118" height="49.27699530516432" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-37" value="更新跟踪器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
-          <mxGeometry x="74" y="416" width="141" height="48" as="geometry" />
+          <mxGeometry x="74" y="427.0672926447574" width="141" height="49.27699530516432" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-38" value="输出跟踪结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ToJrVbR9n8R9AlxOJK9a-33">
-          <mxGeometry x="134" y="562" width="157" height="48" as="geometry" />
+          <mxGeometry x="134" y="576.9514866979655" width="157" height="49.27699530516432" as="geometry" />
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="ToJrVbR9n8R9AlxOJK9a-33" source="ToJrVbR9n8R9AlxOJK9a-34" target="ToJrVbR9n8R9AlxOJK9a-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="144" y="131" />
+              <mxPoint x="144" y="134.48513302034428" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,20 +172,17 @@
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-42" value="轨迹历史" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="ToJrVbR9n8R9AlxOJK9a-33" source="ToJrVbR9n8R9AlxOJK9a-37" target="ToJrVbR9n8R9AlxOJK9a-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="144" y="513" />
+              <mxPoint x="144" y="526.6478873239437" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ToJrVbR9n8R9AlxOJK9a-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0.64;entryY=-0.01;rounded=0;" edge="1" parent="ToJrVbR9n8R9AlxOJK9a-33" source="ToJrVbR9n8R9AlxOJK9a-34" target="ToJrVbR9n8R9AlxOJK9a-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="131" />
-              <mxPoint x="280" y="513" />
+              <mxPoint x="280" y="134.48513302034428" />
+              <mxPoint x="280" y="526.6478873239437" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ToJrVbR9n8R9AlxOJK9a-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ToJrVbR9n8R9AlxOJK9a-33" source="ToJrVbR9n8R9AlxOJK9a-36" target="ToJrVbR9n8R9AlxOJK9a-36">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
