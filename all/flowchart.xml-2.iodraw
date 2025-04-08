@@ -130,10 +130,13 @@
             <mxPoint x="845" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gk1GuVQLElRvGS9MX1vi-81" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gk1GuVQLElRvGS9MX1vi-79">
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-81" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;h=0.5w*c_out&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gk1GuVQLElRvGS9MX1vi-79">
           <mxGeometry x="-0.6056" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gk1GuVQLElRvGS9MX1vi-82" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 24px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;C2F&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="480" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
