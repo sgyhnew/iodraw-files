@@ -27,9 +27,14 @@
         <mxCell id="WkY5knexYzaKYF7SF6bU-6" value="CBS" style="rounded=1;arcSize=20;strokeWidth=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="760" width="57" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WkY5knexYzaKYF7SF6bU-43" value="&#xa;160x160x128W" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-4" target="WkY5knexYzaKYF7SF6bU-5" edge="1">
+        <mxCell id="WkY5knexYzaKYF7SF6bU-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WkY5knexYzaKYF7SF6bU-4" target="WkY5knexYzaKYF7SF6bU-5" edge="1">
           <mxGeometry y="24" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZw_jqteeFD4p0DiWAZ7-143" value="160*160*128*W" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WkY5knexYzaKYF7SF6bU-43">
+          <mxGeometry x="-0.048" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
