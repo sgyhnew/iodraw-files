@@ -10,7 +10,7 @@
         <mxCell id="SE2dEU4w9t5F2kerQ8pI-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SE2dEU4w9t5F2kerQ8pI-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SE2dEU4w9t5F2kerQ8pI-18" value="Task&lt;div&gt;Scheduling&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
