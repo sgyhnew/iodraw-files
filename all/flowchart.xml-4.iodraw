@@ -62,7 +62,7 @@
             <mxPoint x="260" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HDetFZmvi8W5rEbD668z-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Web &lt;/font&gt;UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HDetFZmvi8W5rEbD668z-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Web &lt;/font&gt;UI&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;namenode:50070&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="212.5" y="390" width="287.5" height="60" as="geometry" />
         </mxCell>
       </root>
