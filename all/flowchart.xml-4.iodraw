@@ -30,8 +30,8 @@
             <mxPoint x="430" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HDetFZmvi8W5rEbD668z-11" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="90" width="200" height="200" as="geometry" />
+        <mxCell id="HDetFZmvi8W5rEbD668z-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
