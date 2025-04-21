@@ -83,8 +83,8 @@
         <mxCell id="HDetFZmvi8W5rEbD668z-30" value="Datanode1&lt;div&gt;Worker&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HDetFZmvi8W5rEbD668z-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Web UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="212.5" y="720" width="197.5" height="60" as="geometry" />
+        <mxCell id="HDetFZmvi8W5rEbD668z-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Web UI&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;namenode:7077&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="211.25" y="730" width="197.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
