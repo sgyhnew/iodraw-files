@@ -80,7 +80,7 @@
         <mxCell id="HDetFZmvi8W5rEbD668z-29" value="Datanode2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HDetFZmvi8W5rEbD668z-30" value="Datanode1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HDetFZmvi8W5rEbD668z-30" value="Datanode1&lt;div&gt;Worker&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
