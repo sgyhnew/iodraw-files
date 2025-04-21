@@ -77,6 +77,13 @@
         <mxCell id="HDetFZmvi8W5rEbD668z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HDetFZmvi8W5rEbD668z-27" target="HDetFZmvi8W5rEbD668z-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HDetFZmvi8W5rEbD668z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HDetFZmvi8W5rEbD668z-27" target="HDetFZmvi8W5rEbD668z-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HDetFZmvi8W5rEbD668z-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Namenode&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font size=&quot;3&quot;&gt;Master&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="525" width="120" height="60" as="geometry" />
         </mxCell>
