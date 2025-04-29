@@ -46,8 +46,8 @@
         <mxCell id="xZs5KO3hPPjO3Q-6qz6z-11" value="家系内新发突变" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="410" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xZs5KO3hPPjO3Q-6qz6z-12" value="患者共有变异" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="450" width="120" height="20" as="geometry" />
+        <mxCell id="xZs5KO3hPPjO3Q-6qz6z-12" value="家系间共有新发突变" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="440" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
