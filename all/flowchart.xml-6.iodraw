@@ -46,7 +46,7 @@
         <mxCell id="HHq9mQR2QVtuiBwDySHh-15" value="Yarn&lt;div&gt;资源管理器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHq9mQR2QVtuiBwDySHh-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-16" value="HDFS&lt;div&gt;分布式文件系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="460" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HHq9mQR2QVtuiBwDySHh-17" value="···" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
