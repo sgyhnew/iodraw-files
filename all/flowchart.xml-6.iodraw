@@ -34,6 +34,9 @@
         <mxCell id="HHq9mQR2QVtuiBwDySHh-10" value="Fkink&lt;div&gt;流处理框架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="320" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
