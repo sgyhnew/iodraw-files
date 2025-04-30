@@ -22,8 +22,11 @@
         <mxCell id="HHq9mQR2QVtuiBwDySHh-6" value="Pig&lt;div&gt;数据流处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="250" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HHq9mQR2QVtuiBwDySHh-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-7" value="Mahout&lt;div&gt;数据挖掘库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="260" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
