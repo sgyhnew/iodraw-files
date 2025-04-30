@@ -10,11 +10,14 @@
         <mxCell id="HHq9mQR2QVtuiBwDySHh-1" value="ZooKeeper&lt;div&gt;分布式协调服务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="210" width="60" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="HHq9mQR2QVtuiBwDySHh-3" value="HBase&lt;div&gt;列式数据仓库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-3" value="HBase&lt;div&gt;分布式数据库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="210" width="60" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HHq9mQR2QVtuiBwDySHh-4" value="Oozie&lt;div&gt;作业流调度系统&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="210" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
