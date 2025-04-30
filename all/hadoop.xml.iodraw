@@ -1,0 +1,61 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1156" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ambari&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;监控与管理接口&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="150" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ZooKeeper&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;分布式协调服务&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="210" width="60" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HBase&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;分布式数据库&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="210" width="60" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Oozie&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;作业流调度系统&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="210" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-5" value="Hive&lt;div&gt;数据仓库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-6" value="Pig&lt;div&gt;数据流处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-7" value="Mahout&lt;div&gt;数据挖掘库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-8" value="Mapreduce&lt;div&gt;离线计算框架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-9" value="Spark&lt;div&gt;内存计算框架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-10" value="Fkink&lt;div&gt;流处理框架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-11" value="Flume&lt;div&gt;日志导入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="210" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-12" value="Sqoop&lt;div&gt;数据库导入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="320" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-13" value="Kafka&lt;div&gt;流处理平台&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="430" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yarn/Mesos&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;资源管理器&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="390" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HDFS&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;分布式文件系统&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="460" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;···&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;···&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
