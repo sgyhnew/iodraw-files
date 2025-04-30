@@ -31,6 +31,9 @@
         <mxCell id="HHq9mQR2QVtuiBwDySHh-9" value="Spark&lt;div&gt;内存计算框架&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="320" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
