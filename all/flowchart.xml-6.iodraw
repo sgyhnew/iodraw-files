@@ -7,7 +7,7 @@
         <mxCell id="HHq9mQR2QVtuiBwDySHh-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Ambari&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;监控与管理接口&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="150" width="480" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HHq9mQR2QVtuiBwDySHh-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ZooKeeper&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;分布式协调服务&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HHq9mQR2QVtuiBwDySHh-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ZooKeeper&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;分布式协调服务&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="210" width="60" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HHq9mQR2QVtuiBwDySHh-3" value="HBase&lt;div&gt;分布式数据库&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
