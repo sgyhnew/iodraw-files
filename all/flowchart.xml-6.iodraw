@@ -28,7 +28,7 @@
         <mxCell id="PAW7cLea952iYrKuqjra-7" value="Task&amp;nbsp;&lt;div&gt;Schedluer&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="95" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PAW7cLea952iYrKuqjra-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PAW7cLea952iYrKuqjra-8" value="TaskTracker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="240" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
